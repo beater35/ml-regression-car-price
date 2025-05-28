@@ -43,6 +43,7 @@ car-price-prediction/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/beater35/ml-regression-car-price.git
+   cd ml-regression-car-price
    ```
 
 2. **Run the Jupyter notebook**
