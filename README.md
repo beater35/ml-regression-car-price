@@ -35,7 +35,7 @@ The dataset contains **8,128 car records** with the following features:
 car-price-prediction/
 │
 ├── regression_model_comparison_car_price.ipynb    # Main Jupyter notebook
-└── README.md                               # Project documentation
+└── README.md                                      # Project documentation
 ```
 
 ## 🔧 Installation & Setup
